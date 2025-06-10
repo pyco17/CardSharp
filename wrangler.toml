@@ -1,6 +1,0 @@
-name = 'cardsharp'
-compatibility_date = "2025-06-10"
-
-[site]
-bucket = "./path-to-your-exported-html-folder"
-entry-point = "workers-site"
