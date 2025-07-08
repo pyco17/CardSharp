@@ -2533,6 +2533,10 @@
   margin-bottom: 0;
 }
 
+.u-section-9 .u-gallery-inner-1 {
+  --gap: 0px;
+}
+
 .u-section-9 .u-gallery-item-1 {
   margin-right: 10px;
 }
@@ -3109,9 +3113,9 @@
 }
 
 .u-section-9 .u-gallery-2 {
-  height: 423px;
-  margin-top: 27px;
-  margin-bottom: 60px;
+  height: 419px;
+  margin-top: 40px;
+  margin-bottom: 51px;
   grid-gap: 17px;
 }
 
@@ -3593,7 +3597,7 @@
   }
 
   .u-section-9 .u-gallery-2 {
-    margin-top: 27px;
+    margin-top: 40px;
   }
 
   .u-section-9 .u-gallery-inner-2 {
